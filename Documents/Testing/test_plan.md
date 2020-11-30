@@ -92,7 +92,7 @@
 
 <a name="6"></a>
 ### 6. Представление результатов
-Результаты тестирования представлены в [таблице](https://github.com/NikitaMirosha/tritpo/blob/master/test-plan/test-cases.pdf).
+Результаты тестирования представлены в [таблице](https://github.com/APridy/StudentBase/tree/main/Documents/Testing/test_cases.pdf).
 
 <a name="7"></a>
 ### 7. Выводы
